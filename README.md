@@ -4,7 +4,6 @@
 # You can find the following features :
 ### ❖ Responsive Website
 # You can find some libraries such as :
-###  ❖ [Bootstrap](https://getbootstrap.com/)
 ###  ❖ [fontAwesome](https://fontawesome.com/)
 
 
